@@ -1,0 +1,6 @@
+GSAP 3.15.1 and ScrollTrigger 3.15.1
+Official source: https://github.com/greensock/GSAP/tree/3.15.1
+Repository revision: 5e6c35ff8eedea12d4f229129def635277d8b0f2
+License terms: https://gsap.com/standard-license
+
+Both distributed JavaScript files are copied unchanged from the official 3.15.1 repository distribution. Preserve their embedded copyright/license headers. The standard no-charge license permits implementation on websites, web applications, and digital interfaces; it excludes visual no-code animation-building products that compete with Webflow's animation builder. Review the current official terms for other uses.
