@@ -25,3 +25,9 @@ Magic UI components: Copyright (c) Magic UI, MIT. Source files and license: comp
 The following files were generated for this Beautyland concept demo and compressed to JPEG for delivery. They are fictional illustrative visuals; they do not depict a real clinic, practitioner, patient, treatment, or outcome: `clinic-room.jpg`, `skin-assessment.jpg`, `skin-treatment.jpg`, `laser-room.jpg`, `scalp-exam.jpg`, `hairline-planning.jpg`, `rhinoplasty-consult.jpg`, `facial-surgery.jpg`, `preview-sample.jpg`, `journal-consult.jpg`, `journal-visual.jpg`, and `journal-individual.jpg`. Replace them with client-approved photographs before any real clinic launch.
 
 Additional generated service photography added in this pass: `acne-exam.jpg`, `hair-removal-suite.jpg`, `hair-loss-exam.jpg`, and `body-surgery.jpg`. These are fictional illustrative scenes for the concept demo and must be replaced with clinic-approved material before real-world publication.
+
+## Bizi editorial typography edition — 2026-11-10
+Markazi Text variable (400–700) is copied unchanged from D:/بیزی/گنجینه منابع وب/fonts/google-fonts-catalog/ofl/markazitext for Persian display headings. Amiri Bold is copied unchanged from the adjacent amiri directory for Arabic display headings. Both OFL notices are included under fonts/licenses. Estedad remains the reading/UI face; the existing Fanwood and Junction roles remain for English.
+
+The five earlier service images were superseded by distinct generated concept scenes: rhinoplasty-shal.jpg, facial-consult-shal.jpg, body-consult-shal.jpg, skin-detail-v2.jpg and trichoscopy-v2.jpg. The first three depict fictional Iranian women in contemporary shal styling, with female clinicians. No real clinician, patient, result or clinic is represented.
+
