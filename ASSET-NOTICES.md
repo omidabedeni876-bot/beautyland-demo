@@ -32,5 +32,5 @@ Markazi Text variable (400–700) is copied unchanged from D:/بیزی/گنجی�
 The five earlier service images were superseded by distinct generated concept scenes: rhinoplasty-shal.jpg, facial-consult-shal.jpg, body-consult-shal.jpg, skin-detail-v2.jpg and trichoscopy-v2.jpg. The first three depict fictional Iranian women in contemporary shal styling, with female clinicians. No real clinician, patient, result or clinic is represented.
 
 
-## Mohsen display font — supplied 2026-11-18
-`fonts/mohsen-first-screen.ttf` was supplied by the site owner in `Mohsen [@fontbazi].zip` and is used only for the Persian home-page hero heading. The embedded font metadata identifies the family as Mohsen and designer as R. Balvardi; the ZIP contains no separate license file. The font's OS/2 embedding-restriction flag is zero, but that metadata does not replace a license. Confirm redistribution/commercial rights with the font provider before adapting this demo for a real clinic.
+## Mikhak display font — supplied 2026-11-18
+`fonts/Mikhak-VF.ttf` is the original variable font from the site owner's `mikhak [@fontbazi].zip`, used for the Persian home-page hero heading. The font metadata identifies Amin Abedi (2019), SIL Open Font License 1.1, and the Reserved Font Name “Mikhak.” The file is unchanged and the license text is included under `fonts/licenses/Mikhak-OFL.txt`.
