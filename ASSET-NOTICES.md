@@ -33,4 +33,4 @@ The five earlier service images were superseded by distinct generated concept sc
 
 
 ## Mohsen display font — supplied 2026-11-18
-`fonts/mohsen-display.ttf` was supplied by the site owner in `Mohsen [@fontbazi].zip` and is used only for the Persian home-page hero heading. The embedded font metadata identifies the family as Mohsen and designer as R. Balvardi; the ZIP contains no separate license file. The font's OS/2 embedding-restriction flag is zero, but that metadata does not replace a license. Confirm redistribution/commercial rights with the font provider before adapting this demo for a real clinic.
+`fonts/mohsen-hero-2026.ttf` was supplied by the site owner in `Mohsen [@fontbazi].zip` and is used only for the Persian home-page hero heading. The embedded font metadata identifies the family as Mohsen and designer as R. Balvardi; the ZIP contains no separate license file. The font's OS/2 embedding-restriction flag is zero, but that metadata does not replace a license. Confirm redistribution/commercial rights with the font provider before adapting this demo for a real clinic.
